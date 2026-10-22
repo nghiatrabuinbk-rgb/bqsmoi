@@ -1,0 +1,6 @@
+{
+  "name": "Chấm Điểm Thi Đua Nội Trú - PTDTBT THCS Trà Đốc",
+  "description": "Hệ thống chấm điểm thi đua 25 phòng ở bán trú/nội trú, điểm danh tự học đêm, quản lý nề nếp, vệ sinh và xuất báo cáo - Trường PTDTBT THCS Trà Đốc",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
